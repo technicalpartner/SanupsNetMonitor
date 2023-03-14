@@ -28,6 +28,8 @@ SANUPS.NET MONITOR <sanups.net.monitor@sanups.net>
 
 body : 
 
-プラント名
+```
+      プラント名
 --------------------
 （監視結果 正時情報の欠損ありプラント名）
+```
